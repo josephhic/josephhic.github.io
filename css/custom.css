@@ -4,3 +4,10 @@
     background-color: linear-gradient(red, yellow); 
     color: #212529;
 }
+
+.leadtext {
+    color: white;
+    font-weight: 500;
+    margin: 30px; 
+}
+
